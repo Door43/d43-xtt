@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xtt:home|Door43 (xtt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xtt|d43-xtt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xtt/archive/master.zip|d43-xtt.zip]]
+
+**Recent Changes**
+{{changes>ns = xtt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xtt|Ethnologue data]]
+
